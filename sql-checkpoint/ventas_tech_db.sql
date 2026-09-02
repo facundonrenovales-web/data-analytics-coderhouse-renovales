@@ -1,4 +1,5 @@
-use ventas_tech;
+create database Ventas_Tech_DB;
+use Ventas_Tech_DB;
 
 drop table if exists ventas;
 drop table if exists productos;
